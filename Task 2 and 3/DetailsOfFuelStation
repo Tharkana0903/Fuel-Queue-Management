@@ -1,0 +1,40 @@
+Fuel remaining stock: 6600.0
+Queue 1 data
+Passenger{firstName='ssd', secondName='re', vehicleNo='34', noOfLiters=55.0, status='New'}
+null
+null
+null
+null
+null
+
+Queue 2 data
+Passenger{firstName='s', secondName='e', vehicleNo='22', noOfLiters=500.0, status='New'}
+null
+null
+null
+null
+null
+
+Queue 3 data
+null
+null
+null
+null
+null
+null
+
+Queue 4 data
+null
+null
+null
+null
+null
+null
+
+Queue 5 data
+null
+null
+null
+null
+null
+null
